@@ -1,4 +1,4 @@
-_Everyone participating in the workshop must agree to the following Code of Conduct. This Code of Conduct is adapted from [Hackbright Academy's Code of Conduct](https://hackbrightacademy.com/code-of-conduct-for-hackathons/) and the Code of Conduct used for previous Imageomics Institute events._
+_Everyone participating in the workshop must agree to the following Code of Conduct. This Code of Conduct is adapted from [Hackbright Academy's Code of Conduct](https://hackbrightacademy.com/code-of-conduct-for-hackathons/) and the [Code of Conduct for Imageomics Institute events](https://imageomics.osu.edu/imageomics-code-conduct)._
 
 Image Datapalooza is an event for learning, collaboration, and engagement in the scientific community. We value the participation of each member of the community and want everyone involved to have an enjoyable and fulfilling experience. Accordingly, all staff and participants are expected to show respect and courtesy to others throughout the event. To make clear what is expected, all workshop participants are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 

@@ -1,2 +1,2 @@
-# Image-Datapalooza-2023
-Repository for the Image Datapalooza 2023 event held at OSU in August 2023.
+# Image Datapalooza 2023
+Repository for information advertising and documenting the Image Datapalooza 2023 event to be held at The Ohio State University on August 14-17, 2023.

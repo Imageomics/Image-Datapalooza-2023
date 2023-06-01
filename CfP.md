@@ -59,12 +59,12 @@ The Imageomics Institute is an NSF-funded HDR Institute with the vision of creat
 
 ## Organizing Team
 
-* Elizabeth Campolongo (Ohio State University & Imageomics Institute)
-* Kelly Diamond (Rhodes College)
-* Dom Jebbia (Carnegie Mellon University)
-* Hilmar Lapp (Duke University & Imageomics Institute)
-* Jenna Kline (Ohio State University)
-* Chuck Stewart (Rensselaer Polytechnic Institute - RPI & Imageomics Institute)
+* [Elizabeth Campolongo](https://egrace479.github.io) (Ohio State University & Imageomics Institute)
+* [Kelly Diamond](https://diamondkmg.github.io/) (Rhodes College)
+* [Dom Jebbia](http://www.omnomdombomb.com/) (Carnegie Mellon University)
+* [Hilmar Lapp](https://orcid.org/0000-0001-9107-0714) (Duke University & Imageomics Institute)
+* [Jenna Kline](https://jennamk14.github.io) (Ohio State University)
+* [Chuck Stewart](https://www.cs.rpi.edu/~stewart/) (Rensselaer Polytechnic Institute - RPI & Imageomics Institute)
 
 [FAIR]: https://www.go-fair.org/fair-principles/
 [CARE]: https://www.nature.com/articles/s41597-021-00892-0
